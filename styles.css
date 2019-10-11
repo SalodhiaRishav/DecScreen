@@ -1,0 +1,126 @@
+.col-5,.col-12,.col-4{
+    padding-left: 0px;
+    padding-right:0px;
+}
+.row{
+    margin-right: 0px;
+    margin-left: 0px;
+}
+#leftHeading{
+    writing-mode: vertical-lr;
+    text-orientation: mixed;
+    border: 2px solid black;
+    height: 448px;
+    font-size: 18px;
+    font-weight: 500;
+    text-align: center;
+    padding-top: 2px;
+}
+
+#leftHeadingCol{
+    padding-right: 0px;
+    padding-left: 50px;
+}
+
+#leftFirstRow{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    height:112px;
+}
+
+#leftSecondRow{
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    height:112px;
+}
+
+#leftThirdRow{
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    height:112px;
+}
+
+#leftFourthRow{
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    height:112px;
+}
+
+#leftFourthRowCol{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+#leftFourthRowFirstRow{
+    border-bottom: 1px solid black;
+    height:37px;
+}
+
+#leftFourthRowSecondRow{
+    border-bottom: 1px solid black;
+    height:37px;
+}
+#leftFourthRowThirdRow{
+    height:37px;
+}
+
+#rightFirstRow{
+    border-bottom: 1px solid black;
+    height:112px;
+}
+
+#rightSecondRow{
+    border-bottom: 1px solid black;
+    height:112px;
+}
+
+#rightThirdRow{
+    border-bottom: 1px solid black;
+    height:112px;
+}
+
+#rightFourthRow{
+    border-bottom: 1px solid black;
+    height:112px;
+}
+
+#rightFirstRowFirstColFirstRow
+{
+    border-bottom: 3px solid black;
+    border-right: 3px solid black;
+    border-left: 3px solid black;
+    height:37px;
+}
+
+#rightFirstRowFirstColSecondRow
+{
+    border-bottom: 1px solid black;
+    height:37px;
+}
+
+#rightFirstRowFirstColThirdRow
+{
+    height:37px;
+}
+
+
+
+#rightSecondRowFirstRow{
+    border-bottom: 1px solid black;
+    height:37px;
+}
+#rightSecondRowSecondRow{
+    border-bottom: 1px solid black;
+    height:37px;
+}
+#rightSecondRowThirdRow{
+    height:37px;
+}
+
+#rightFourthFirstRow
+{
+    border-bottom: 1px solid black;
+    height:37px;
+}
+
+.
