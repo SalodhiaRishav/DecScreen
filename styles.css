@@ -123,4 +123,32 @@
     height:37px;
 }
 
-.
+
+#mainRowSecond{
+    border-left: 1px solid;
+    height: 132px;
+    margin-left: 80px;
+    margin-right: 80px;
+
+}
+
+#mainRowThird{
+    border-top:1px solid;
+    border-left: 1px solid;
+    height: 496px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+#mainRowFourth{
+    border-top: 1px solid;
+    height: 130px;
+    margin-left: 40px;
+    margin-right: 80px;
+
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size:7.4px;
+  }
